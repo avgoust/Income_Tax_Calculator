@@ -4,7 +4,7 @@ Project for the course taught by Dr. A Zarras,Software Development II (2022-2023
 
 
 Developer team:
-Avgoustinos Zigos
+Avgoustinos Zigos,
 Nikoleta Mpitzilaiou.
 
 The goal was to refactor the given program of an Income tax calculator.
